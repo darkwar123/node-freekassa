@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "crypto": "^1.0.1",
+    "decimal.js": "^10.0.0",
     "events": "^2.0.0",
     "md5": "^2.2.1",
     "request": "^2.83.0"
